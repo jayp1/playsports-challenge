@@ -2,15 +2,15 @@
 
 The task of this project was to recreate and improve the navigation user experience of the GCN home page for mobile users. I completed this task using the React javascript framework.
 
-The following improvements were made:
-    - Set the positioning of the top navigation bar to 'fixed' so that the user has access to the navigation items at all times.
-    - Added a menu sidedrawer with the navigation links to only appear when requested by the user.
-    - Reduced the number of navigation links.
-    - Reduced the number of videos returned.
+### The following improvements were made:
+- Set the positioning of the top navigation bar to 'fixed' so that the user has access to the navigation items at all times.
+- Added a menu sidedrawer with the navigation links to only appear when requested by the user.
+- Reduced the number of navigation links.
+- Reduced the number of videos returned.
 
-Further possible improvements include:
-    - Add an additional navigation layer for the top level items.
-    - Remove the background color for active social links.
+### Further possible improvements include:
+- Add an additional navigation layer for the top level items.
+- Remove the background color for active social links.
 
 ## Requirements
 
